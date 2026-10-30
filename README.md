@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="public/images/logo.png" alt="Eco Car Workshop logo" width="150" />
 
 # Eco Car Workshop
 
 **A fast, responsive, single-page website for a car repair and tuning workshop in Multan, Pakistan.**
 
 [![Live Site](https://img.shields.io/badge/Live-Visit%20Website-2B10E0?style=for-the-badge&logo=vercel&logoColor=white)](https://eco-car-workshop-next-js.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asma%20Shahzadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -164,8 +162,4 @@ npm run start   # run the production build
 **Asma Shahzadi**: Full Stack Developer
 
 
-<div align="center">
 
-Built by Asma Shahzadi
-
-</div>
